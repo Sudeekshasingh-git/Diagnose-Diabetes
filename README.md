@@ -1,1 +1,2 @@
 The objective of this project is to build a machine learning model that can predict whether a person has diabetes based on diagnostic medical attributes. Early detection of diabetes is crucial in preventing severe complications, and this model aims to assist healthcare professionals in making faster and more informed decisions.
+![image](https://github.com/user-attachments/assets/d7969b58-ed37-4336-888f-ebed361b2016)
